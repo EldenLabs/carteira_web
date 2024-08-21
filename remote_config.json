@@ -8,7 +8,7 @@
   "showInterstitial":true,
   "showTestAds":true,
   "showBannerAds":true,
-  "wortise":false,
+  "wortise":true,
   "bannerAdUnit":"ca-app-pub-7996006950744275/1842179604",
   "interstitialAdUnit":"ca-app-pub-7996006950744275/7094506280",
   "openAppAdUnitId":"ca-app-pub-7996006950744275/8216016264"
