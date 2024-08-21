@@ -6,7 +6,7 @@
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showInterstitial":true,
-  "showTestAds":true,
+  "showTestAds":false,
   "showBannerAds":true,
   "wortise":true,
   "bannerAdUnit":"ca-app-pub-7996006950744275/1842179604",
