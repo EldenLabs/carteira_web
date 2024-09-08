@@ -1,12 +1,12 @@
 
 {
-  "showAds":true,
+  "showAds":false,
   "showWeb":true,
   "adsInterval":45,
   "showAppOpenAd":true,
   "showFirstAd":true,
   "showInterstitial":true,
-  "showTestAds":false,
+  "showTestAds":true,
   "showBannerAds":true,
   "wortise":false,
   "bannerAdUnit":"ca-app-pub-7996006950744275/1842179604",
